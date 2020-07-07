@@ -1,0 +1,26 @@
+@font-face
+{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+h1 {color: maroon;
+font-size: 24px;
+margin-bottom: 10px}
+
+p {color: rgb(24, 6, 6);
+        font-size: 18px;
+    margin-top: 0%;}
+
+h2 {color: brown;}
+
+li{color: rgb(24, 6, 6) ;}
+
+body {background-image: url(hatter.jpg);}
+
+img { display: inline-block;
+height: 300px;
+margin-right: 30px;
+margin-top: 50px;
+box-shadow: 0 0 15px sienna;}
+
+/*<a target="blank"
+href="https://www.tripadvisor.co.hu/Restaurant_Review-g274887-d10700050-Reviews-Kaloz_Burger-Budapest_Central_Hungary.html">csak
+úgy találtam</a>*/
